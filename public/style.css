@@ -1,0 +1,13 @@
+.color{
+    color: red;
+}
+.image {
+    width: 100% !important;
+}
+.youtube{
+    width: 50% !important;
+}
+.link {
+    text-decoration: none !important;
+    width: 100%;
+}
